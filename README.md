@@ -9,7 +9,7 @@ This dashboard 📊 allows marketing teams to:
 📈 Analyze user engagement trends by campaign.
 💡 Visualize Click Through Rate (CTR) and Return on Investment (ROI).
 
-## 📌 Key Features
+## 📌 Key Features:
 📊 Total Clicks: 41,284
 ❤️ Total Likes: 17,193
 💬 Total Comments: 3,237
@@ -27,7 +27,9 @@ This dashboard 📊 allows marketing teams to:
 💻 Power BI
 
 📁 Files Included
+
 🖼️ Dashboard image <a href="https://github.com/Sheebalakshmi/Social-media-campaign-trackerDataAnalaysis-Dashboard-/blob/main/Dashboard%20image.jpg"> Dashboard </a>
+
 📄 Dataset <a href="https://github.com/Sheebalakshmi/Social-media-campaign-trackerDataAnalaysis-Dashboard-/blob/main/Large_Social_Media_Campaign_Tracker.xlsx"> Dataset </a>
 
 ## ✅ Skills Demonstrated
@@ -37,7 +39,8 @@ This dashboard 📊 allows marketing teams to:
 📊 Campaign Performance Analysis
 💸 ROI & CTR Calculation
 
-### 📬 Contact
+
+### 📬 Contact:
 👋 Name: R. Sheebalakshmi
 🏫 College: Holy Cross Engineering College, Thoothukudi
 💼 Role: Data Science & Analytics Intern at Futureinterns
